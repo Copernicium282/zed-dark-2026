@@ -1,7 +1,7 @@
 id = "dark-2026-theme"
 name = "Dark 2026"
-version = "0.1.0"
+version = "0.2.0"
 schema_version = 1
-authors = ["Igor Milosavljevic <migor@live.co.uk>"]
+authors = ["Igor Milosavljevic <migor@live.co.uk>", "Copernicium282 <Copernicium282@users.noreply.github.com>"]
 description = "VS Code's Dark 2026 default theme, faithfully ported to Zed"
-repository = "https://github.com/igor570/zed-dark-2026"
+repository = "https://github.com/Copernicium282/zed-dark-2026"
