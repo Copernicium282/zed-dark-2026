@@ -1,6 +1,6 @@
 id = "dark-2026-theme"
 name = "Dark 2026"
-version = "0.2.0"
+version = "0.3.0"
 schema_version = 1
 authors = ["Copernicium282"]
 description = "A custom Zed theme derived from VS Code's Dark 2026"
