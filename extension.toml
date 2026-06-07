@@ -1,9 +1,9 @@
-id = "dark-2026-theme"
-name = "Dark 2026"
+id = "obsidian-ember-theme"
+name = "Obsidian Ember"
 version = "0.3.0"
 schema_version = 1
 authors = ["Copernicium282"]
-description = "A custom Zed theme derived from VS Code's Dark 2026"
+description = "A custom Zed theme, derived from VS Code's Dark 2026"
 repository = "https://github.com/Copernicium282/zed-dark-2026"
 
-themes = ["themes/dark-2026.json"]
+themes = ["themes/obsidian-ember.json"]

@@ -1,4 +1,4 @@
-# Dark 2026
+# Obsidian Ember
 
 A custom Zed theme by **Copernicium282**, derived from [VS Code's Dark 2026](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults) default theme (shipped with VS Code 1.113).
 
@@ -6,7 +6,7 @@ Near-black canvas, teal types and constants, light-blue strings, warm-orange par
 
 ## Install
 
-Search for **Dark 2026** in Zed's extensions (`cmd-shift-x` / `ctrl-shift-x`), install, then pick it in the theme selector (`cmd-k cmd-t`).
+Search for **Obsidian Ember** in Zed's extensions (`cmd-shift-x` / `ctrl-shift-x`), install, then pick it in the theme selector (`cmd-k cmd-t`).
 
 ## How it was built
 
@@ -14,7 +14,7 @@ VS Code's `2026-dark.json` inherits through a four-file chain (`dark_modern` →
 
 ## Recommended: semantic tokens
 
-Part of Dark 2026's look in VS Code comes from LSP semantic tokens (teal module names, orange parameters, blue `const`-bound variables). Zed supports these too — add this to your `settings.json` for the full effect:
+Part of the original Dark 2026's look in VS Code comes from LSP semantic tokens (teal module names, orange parameters, blue `const`-bound variables). Zed supports these too — add this to your `settings.json` for the full effect:
 
 ```jsonc
 "semantic_tokens": "combined",
