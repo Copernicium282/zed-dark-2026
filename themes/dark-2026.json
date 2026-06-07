@@ -214,7 +214,7 @@
         "vim.helix_select.foreground": "#ffffff",
         "syntax": {
           "attribute":                    { "color": "#9cdcfe" },
-          "boolean":                      { "color": "#4ec9b0" },
+          "boolean":                      { "color": "#569cd6" },
           "character":                    { "color": "#a5d6ff" },
           "character.special":            { "color": "#d7ba7d" },
           "comment":                      { "color": "#8b949e" },
