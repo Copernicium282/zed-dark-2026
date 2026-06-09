@@ -6,7 +6,11 @@ Near-black canvas, teal types and constants, light-blue strings, warm-orange par
 
 ## Install
 
-Search for **Obsidian Ember** in Zed's extensions (`cmd-shift-x` / `ctrl-shift-x`), install, then pick it in the theme selector (`cmd-k cmd-t`).
+```bash
+git clone https://github.com/Copernicium282/zed-obsidian-ember ~/.config/zed/extensions/obsidian-ember
+```
+
+Open Zed, press `cmd-shift-x` / `ctrl-shift-x`, click "Install Dev Extension", select the cloned extension, then pick it in the theme selector (`cmd-k cmd-t`).
 
 ## How it was built
 
